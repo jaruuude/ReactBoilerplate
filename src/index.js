@@ -1,6 +1,6 @@
 // key react dependencies
 import ReactDOM from 'react-dom/client';
-import './styles.css';
+
 // import our components
 
 
